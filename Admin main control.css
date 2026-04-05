@@ -1,0 +1,40 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color:#f2ebeb;
+    font-family: 'Arial';
+}
+form{
+    height: 160px;
+    width: 180px;
+}
+label{
+    color: #121112;
+    font-size: 17px;
+}
+.login{
+    width: 382px;
+    overflow: hidden;
+    margin: auto;
+    margin: 20 0 0 450px;
+    padding: 150px;
+    background: #5d96d0;
+    border-radius: 20px ;
+}
+h2{
+    text-align: center;
+    color: #070707;
+    padding: none;
+}
+div{
+    width: 200px;
+    border: 15px solid rgb(92, 160, 199);
+    padding: 300px;
+    margin: 20px;
+    content: none;
+}
+a{
+    float: center;
+    background-color: rgb(233, 25, 25);
+}
